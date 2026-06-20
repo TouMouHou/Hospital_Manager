@@ -1,7 +1,5 @@
 package DataStructs;
 
-import java.util.Arrays;
-
 public class Patient extends Person implements Comparable<Patient> {
     private String blood;
     private boolean emergency;
